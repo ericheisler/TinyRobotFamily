@@ -1,6 +1,6 @@
 /*
-Robot version 2
-Simpler. ATtiny85, 2 motors, LED, two sensors
+Robot version 1
+ATtiny85, 2 motors, LED, two sensors
 
 Sensor stuff: 
 both white  :  no prior  :  random walk
